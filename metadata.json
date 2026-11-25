@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Octane",
+  "description": "An international automotive journal for rare and bespoke automobiles featuring curated photo galleries and technical performance specifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
